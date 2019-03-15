@@ -12,6 +12,10 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
+# Fresh command-line tool
+tmp
+runner-build-errors.log
+
 ### Go Patch ###
 /vendor/
 /Godeps/
